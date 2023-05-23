@@ -9,3 +9,5 @@ Pokemon Image and Types dataset - https://www.kaggle.com/datasets/vishalsubbiah/
 DCGAN Anime(Notebook) - https://www.kaggle.com/code/rishabhspark/dcgan-anime/notebook
 
 Anime Facees Dataset - https://www.kaggle.com/datasets/soumikrakshit/anime-faces
+
+Pokemon Data webscraped from https://pokemondb.net/
