@@ -10,4 +10,4 @@ DCGAN Anime (Notebook) - https://www.kaggle.com/code/rishabhspark/dcgan-anime/no
 
 Anime Faces Dataset - https://www.kaggle.com/datasets/soumikrakshit/anime-faces
 
-Pokemon Data webscraped from https://pokemondb.net/
+Pokemon data webscraped from https://pokemondb.net/
